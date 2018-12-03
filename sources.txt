@@ -1,0 +1,4 @@
+https://pimylifeup.com/raspberry-pi-nextcloud-server/
+https://raspbian-france.fr/installer-serveur-web-raspberry-lamp/
+https://escapologybb.com/oh-my-zsh/
+https://websiteforstudents.com/install-nextcloud-on-ubuntu-16-04-lts-with-nginx-mariadb-php-7-1-and-lets-encrypt-ssl-tls/
